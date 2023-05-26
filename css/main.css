@@ -1,0 +1,21 @@
+* {
+	color: green;
+}
+
+h1 {
+	color: red;
+}
+
+[disabled] {
+	color: blue;
+}
+
+.error {
+	color: red;
+	font-size: 1.5em;
+}
+
+#first {
+	color: palegreen;
+}
+
